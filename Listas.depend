@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1376591157 source:c:\users\marcos hernandez\desktop\progra 3\listas\main.cpp
+	<iostream>
+	"Lista.h"
+
+1376589427 
+
+1376588452 source:c:\users\marcos hernandez\desktop\progra 3\listas\nodo.cpp
+	"Nodo.h"
+
+1376589427 c:\users\marcos hernandez\desktop\progra 3\listas\nodo.h
+	<iostream>
+
+1376591145 source:c:\users\marcos hernandez\desktop\progra 3\listas\lista.cpp
+	"Lista.h"
+
+1376590846 c:\users\marcos hernandez\desktop\progra 3\listas\lista.h
+	"Nodo.h"
+
+1376935765 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/Lista.cpp
+	"Lista.h"
+
+1376934140 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/Lista.h
+	"Nodo.h"
+
+1376934135 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/Nodo.h
+	<iostream>
+
+1376588454 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/Nodo.cpp
+	"Nodo.h"
+
+1377759688 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/main.cpp
+	<iostream>
+	"Lista.h"
+	"ListaDoble.h"
+	"NodoArbol.h"
+	"ArbolBinario.h"
+	<stdlib.h>
+	<vector>
+
+1377022122 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/ListaDoble.cpp
+	"ListaDoble.h"
+
+1377020053 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/ListaDoble.h
+	"NodoDoble.h"
+
+1376936780 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/NodoDoble.cpp
+	"NodoDoble.h"
+
+1376935003 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/NodoDoble.h
+	<iostream>
+
+1377193043 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/NodoArbol.cpp
+	"NodoArbol.h"
+
+1377193267 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/NodoArbol.h
+	<iostream>
+
+1377758959 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/ArbolBinario.cpp
+	"ArbolBinario.h"
+
+1377758680 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/ArbolBinario.h
+	"NodoArbol.h"
+	<iostream>
+
+1377758959 source:/media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/ArbolBinario.cpp
+	"ArbolBinario.h"
+
+1377758680 /media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/ArbolBinario.h
+	"NodoArbol.h"
+	<iostream>
+
+1377193267 /media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/NodoArbol.h
+	<iostream>
+
+1376935765 source:/media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/Lista.cpp
+	"Lista.h"
+
+1376934140 /media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/Lista.h
+	"Nodo.h"
+
+1376934135 /media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/Nodo.h
+	<iostream>
+
+1377022122 source:/media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/ListaDoble.cpp
+	"ListaDoble.h"
+
+1377020053 /media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/ListaDoble.h
+	"NodoDoble.h"
+
+1376935003 /media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/NodoDoble.h
+	<iostream>
+
+1376588454 source:/media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/Nodo.cpp
+	"Nodo.h"
+
+1377193043 source:/media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/NodoArbol.cpp
+	"NodoArbol.h"
+
+1376936780 source:/media/turupawn/b73645b2-07b4-41fa-9edf-04c4052abd85/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Listas/NodoDoble.cpp
+	"NodoDoble.h"
+
